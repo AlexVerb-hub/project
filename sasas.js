@@ -1,2 +1,2 @@
-var i="ебать мой хуй,это работает";
-alert (i);
+var i="s";
+console.log(i);
